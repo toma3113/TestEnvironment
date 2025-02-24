@@ -10,7 +10,7 @@ import Foundation
 import SwiftUICore
 
 private struct NewEnvironmentKey: EnvironmentKey {
-    static let defaultValue: String = "NewEnvironmentValue2"
+    static let defaultValue: String = "NewEnvironmentValue"
 }
 
 extension EnvironmentValues {
